@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+*.egg-info/
+.vscode/
+.DS_Store
+.coverage
+*.log
+
+# Data and large outputs (uncomment if present)
+# data/
+# outputs/
+
+# Notebook checkpoints
+.ipynb_checkpoints
