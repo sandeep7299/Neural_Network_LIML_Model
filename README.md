@@ -144,6 +144,18 @@ You’ll get:
 * **Different results from paper** → verify YEAR in X vs Z, and that both first-stage models use identical (Z).
 
 ---
+📚 References (core)
+
+Amsler, Prokhorov & Schmidt (2016); Prokhorov & Schmidt (2020): Control-function SFA under endogeneity.
+
+Kutlu (2010): Two-step SFA under endogeneity.
+
+Jondrow, Lovell, Materov & Schmidt (1982): Conditional inefficiency and TE.
+
+Alvarez, Arias & Greene (2004): Spanish dairy application.
+
+(These are conceptual anchors; see your thesis bibliography for full citations.)
+
 
 ## 🔗 How to cite (example)
 
